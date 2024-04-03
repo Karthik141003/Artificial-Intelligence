@@ -9,7 +9,7 @@ Browse through my curated collection of AI projects, covering various domains an
 
 1. **AI Chess**
    - Description: A Python-based chess game incorporating artificial intelligence algorithms for challenging gameplay.
-   - Repository: [AI Chess Repository](#)
+   - Repository: [AI Chess](#)
 
 ## Resources
 
